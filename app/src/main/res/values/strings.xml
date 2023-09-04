@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Ticmas Android</string>
+    <string name="txt_title">Ticmas - Proyecto Final</string>
+    <string name="txt_first_text">Ingrese el primer texto</string>
+    <string name="txt_second_text">Ingrese el segundo texto</string>
+    <string name="txt_btn_compare">Comparar Textos</string>
+    <string name="txt_resoult_true">Los textos son Iguales</string>
+    <string name="txt_resoult_false">Los textos son Diferentes</string>
+
+</resources>
